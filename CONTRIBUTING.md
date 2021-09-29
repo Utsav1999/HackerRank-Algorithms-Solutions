@@ -10,7 +10,7 @@
         author: <Your Name>
     ```
 - Write clear code with explanation as comment line
-- Follow PR Template while making any PR
+- Follow [PR Template](https://github.com/Utsav1999/HackerRank-Algorithms-Solutions/blob/main/PR_TEMPLATE.md) while making any PR
 
 ## Note :triangular_flag_on_post:
 

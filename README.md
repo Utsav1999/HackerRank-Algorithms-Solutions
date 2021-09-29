@@ -11,4 +11,4 @@
 ## Update
 
 - This repo is participting in the <b>Hacktoberfest 2021<b> :star2:
-- To contribute to this repo read Contribution.md :green_book: before making any PR
+- To contribute to this repo read [Contribution.md](https://github.com/Utsav1999/HackerRank-Algorithms-Solutions/blob/main/CONTRIBUTING.md) :green_book: before making any PR

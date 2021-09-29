@@ -1,5 +1,6 @@
 # Contribution Guidelines :closed_book:
 
+- Fork the repo
 - Make a new branch on your name
 - Select a problem from HackerRank Algorithm sectiom
 - Make a folder on the problem name

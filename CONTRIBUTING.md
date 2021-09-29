@@ -4,7 +4,8 @@
 - Select a problem from HackerRank Algorithm sectiom
 - Make a folder on the problem name
 - Comment the problem url and your name at the beginning of the solution as 
-    ``` url: <Problem URL>
+    ``` 
+        url: <Problem URL>
         author: <Your Name>
     ```
 - Write clear code with explanation as comment line

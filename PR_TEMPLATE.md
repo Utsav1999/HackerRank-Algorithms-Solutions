@@ -1,6 +1,6 @@
 ## Description
 
-Please include a summary of the change/ issue thst you have fixed.
+Please include a summary of the change/ issue that you have fixed.
 
 ## Type Of Change
 

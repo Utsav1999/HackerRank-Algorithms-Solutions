@@ -59,6 +59,14 @@ function breakingRecords(scores) {
 
 }
 
+/*
+ * The 'main' function below.
+ *
+ * The function accepts following input mentioned as per the test cases input:
+ *  1. INTEGER_ARRAY scores (this array contains the value of the score for every game played 
+ *  No. of game played is the array index)
+ */
+
 function main() {
     const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
 

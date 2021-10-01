@@ -62,6 +62,22 @@ function countApplesAndOranges(s, t, a, b, apples, oranges) {
     console.log(totalOranges);
 }
 
+/*
+ * The 'main' function below.
+ *
+ * The function accepts following input mentioned as per the test cases input:
+ *  1. INTEGER s (it takes the value of the starting point of the house)
+ *  2. INTEGER t (it takes the value of the endpoint of the house)
+ *  3. INTEGER a (it takes the value of the position point of the apple tree)
+ *  4. INTEGER b (it takes the value of the position point of the orange tree)
+ *  5. INTEGER_ARRAY apples (this array contains the value of the position, point of the apple fallen from the
+ *  apple tree)
+ *  6. INTEGER_ARRAY oranges (this array contains the value of the position, point of the orange fallen from 
+ *  the orange tree)
+ */
+
+
+
 function main() {
     const firstMultipleInput = readLine().replace(/\s+$/g, '').split(' ');
 
